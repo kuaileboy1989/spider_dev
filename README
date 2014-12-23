@@ -1,0 +1,10 @@
+1.本程序实现了可以配置首页url和最大爬取深度。
+2.文件列表：
+    common.py       ：全局信息存放
+    config.py       ：配置文件
+    spider.py       ：爬虫类实现
+    thread_pool.py  ：线程池实现
+    tools.py        ：工具函数库
+    main.py         ：程序入口
+3.执行方式：
+    python main.py
